@@ -107,11 +107,12 @@ body{
         width: 96%;
     }
     #copy3{
-        width: 37%;
+        width: 34%;
+        padding-right: 3%;
         font-size: 1.2rem; 
         justify-content: center;
     }
     #source1{
-        width: 63%;
+        width: 66%;
     }    
 }
