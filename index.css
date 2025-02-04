@@ -68,6 +68,7 @@ body{
     font-family: NotoSansKR-Bold;
     font-style: italic;
     font-size: 1.3rem; 
+    letter-spacing: -0.03rem;
     display: flex;
     align-items: center;
     justify-content: left;
@@ -94,7 +95,7 @@ body{
         width: 40%;
         padding-right: 3%;
         padding-left: 0;
-        font-size: 1.5rem;
+        font-size: 1.6rem;
         justify-content: center;
     }
     #copy2{
@@ -106,15 +107,11 @@ body{
         width: 96%;
     }
     #copy3{
-        width: 35%;
-        font-family: NotoSansKR-Bold;
-        font-style: italic;
+        width: 37%;
         font-size: 1.2rem; 
-        display: flex;
-        align-items: center;
-        justify-content: left;
+        justify-content: center;
     }
     #source1{
-        width: 65%;
+        width: 63%;
     }    
 }
