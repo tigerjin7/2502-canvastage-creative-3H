@@ -89,11 +89,11 @@ body{
     }
     #container1{
         height: 100px;
-        padding: 3%;
+        padding: 2.5%;
     }
     #copy1{
         width: 40%;
-        padding-right: 3%;
+        padding-right: 4%;
         padding-left: 0;
         font-size: 1.6rem;
         justify-content: center;
@@ -102,6 +102,7 @@ body{
         width: 60%;
         padding-left: 3%;
         font-size: 0.8rem;
+        line-height: 1.2rem;
     }
     #container2{
         width: 96%;
