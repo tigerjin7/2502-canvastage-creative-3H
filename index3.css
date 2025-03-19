@@ -28,7 +28,7 @@ body{
 }
 #container1{
     padding: 2%;
-    background-color: black;
+    background-color: white;
     display: flex;
 }
 #copy1{
@@ -38,7 +38,7 @@ body{
     font-size: 2rem;
     font-family: NotoSansKR-Black;
     font-style: italic;
-    color: white;
+    color: black;
     letter-spacing: -0.03rem;
     display: flex;
     align-items: center;
@@ -51,11 +51,11 @@ body{
     line-height: 1.3rem;
     text-align: justify;
     font-size: 0.9rem;
-    color: white;
+    color: black;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-left: 1.5px solid white;
+    border-left: 1.5px solid black;
 }
 .main{
     width: 900px;
